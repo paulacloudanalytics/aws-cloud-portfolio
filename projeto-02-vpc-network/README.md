@@ -1,15 +1,15 @@
-# **Construção de VPC na AWS**
+# Construção de VPC na AWS
 
-**Objetivo**
+## Objetivo
 Construir uma arquitetura de rede na AWS utilizando uma VPC (Virtual Private Cloud), aplicando conceitos de isolamento, segmentação e controle de acesso em ambientes de nuvem.
 
-**Serviços Utilizados**
+## Serviços Utilizados
 - Amazon VPC
 - Subnets
 - Security Groups
 - Amazon EC2
 
-**Implementação**
+## Implementação
 
 Durante este laboratório prático, foram realizadas as seguintes etapas:
 
@@ -19,12 +19,14 @@ Durante este laboratório prático, foram realizadas as seguintes etapas:
 4. Inicialização de uma instância Amazon EC2 dentro da VPC criada.
 5. Testes de conectividade e validação da estrutura de rede.
 
-**Arquitetura da Solução**
+## Arquitetura da Solução
 A solução consiste na criação de uma VPC personalizada, permitindo o isolamento completo dos recursos na nuvem. Dentro dessa VPC, foram configuradas sub-redes para segmentação da rede, possibilitando maior controle e organização. O acesso aos recursos foi controlado por meio de Security Groups, garantindo segurança na comunicação. Uma instância EC2 foi implantada dentro dessa estrutura, validando o funcionamento da arquitetura.
 
-**Evidências**
+## Evidências
 
-<img width="800" height="383" alt="image" src="https://github.com/user-attachments/assets/4d35862c-f88e-4d36-95a1-e2ee0214db17" />
+<img width="800" height="383" alt="image" src="https://github.com/user-attachments/assets/537707c9-2bab-4196-8c42-2078ec8df221" />
 
-**Aprendizado**
+
+
+## Aprendizado
 Este laboratório foi essencial para compreender, na prática, como funciona a construção de redes na AWS. A criação de uma VPC do zero permitiu entender conceitos fundamentais como isolamento de rede, segmentação e controle de acesso. Além disso, reforçou a importância da arquitetura bem estruturada para garantir segurança e organização em ambientes cloud, habilidades indispensáveis para atuação na área de Cloud Computing.
