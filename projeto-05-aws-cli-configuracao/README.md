@@ -29,13 +29,8 @@ A solução consiste em uma VPC contendo uma instância EC2 baseada em Linux Red
 
 ## Evidências
 
-<img width="800" height="368" alt="image" src="https://github.com/user-attachments/assets/033b6f28-a048-4390-b305-594c35097d44" />
-
-<img width="800" height="366" alt="image" src="https://github.com/user-attachments/assets/bd13a0bb-ae19-42ce-9a49-13f4c061e8b5" />
-
-<img width="587" height="603" alt="image" src="https://github.com/user-attachments/assets/92b06984-d251-449d-b202-01a959d4ec9e" />
-
-
+<img width="658" height="419" alt="LAB 168 1" src="https://github.com/user-attachments/assets/27b34ab8-32d8-4e99-8d3f-420c61fed8fb" />
+<img width="644" height="338" alt="LAB 168 2" src="https://github.com/user-attachments/assets/7a9ae87a-5638-4787-8ebe-22381eaa2d77" />
 
 
 ## Script
